@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="28" passed="25" failed="2" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T12:58:02 GMT-05:00" name="TutSuite" finished-at="2023-12-28T13:09:43 GMT-05:00" duration-ms="700563">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T12:58:02 GMT-05:00" name="NinTest" finished-at="2023-12-28T13:09:43 GMT-05:00" duration-ms="700563">
+      <class name="automationcodeofTutorialsninja.CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.CheckoutTest@6e9a5ed8]" started-at="2023-12-28T13:05:07 GMT-05:00" name="setup" finished-at="2023-12-28T13:05:29 GMT-05:00" duration-ms="22139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Finishh()[pri:0, instance:automationcodeofTutorialsninja.CheckoutTest@6e9a5ed8]" started-at="2023-12-28T13:05:29 GMT-05:00" name="Finishh" finished-at="2023-12-28T13:05:57 GMT-05:00" duration-ms="28620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finishh -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.CheckoutTest@6e9a5ed8]" started-at="2023-12-28T13:05:57 GMT-05:00" name="close" finished-at="2023-12-28T13:05:58 GMT-05:00" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automationcodeofTutorialsninja.CheckoutTest -->
+      <class name="automationcodeofTutorialsninja.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:05:58 GMT-05:00" name="setup" finished-at="2023-12-28T13:06:25 GMT-05:00" duration-ms="27522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lout(java.lang.String,java.lang.String)[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:06:25 GMT-05:00" name="Lout" data-provider="TN" finished-at="2023-12-28T13:06:30 GMT-05:00" duration-ms="4568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:06:30 GMT-05:00" name="close" finished-at="2023-12-28T13:06:30 GMT-05:00" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:06:30 GMT-05:00" name="setup" finished-at="2023-12-28T13:06:53 GMT-05:00" duration-ms="22508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lout(java.lang.String,java.lang.String)[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:06:53 GMT-05:00" name="Lout" data-provider="TN" finished-at="2023-12-28T13:06:57 GMT-05:00" duration-ms="4497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:06:57 GMT-05:00" name="close" finished-at="2023-12-28T13:06:57 GMT-05:00" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:06:57 GMT-05:00" name="setup" finished-at="2023-12-28T13:07:22 GMT-05:00" duration-ms="24594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lout(java.lang.String,java.lang.String)[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:07:22 GMT-05:00" name="Lout" data-provider="TN" finished-at="2023-12-28T13:07:25 GMT-05:00" duration-ms="3519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:07:25 GMT-05:00" name="close" finished-at="2023-12-28T13:07:26 GMT-05:00" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:07:26 GMT-05:00" name="setup" finished-at="2023-12-28T13:07:54 GMT-05:00" duration-ms="28224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lout(java.lang.String,java.lang.String)[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:07:54 GMT-05:00" name="Lout" data-provider="TN" finished-at="2023-12-28T13:07:58 GMT-05:00" duration-ms="4061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:07:58 GMT-05:00" name="close" finished-at="2023-12-28T13:07:58 GMT-05:00" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:07:58 GMT-05:00" name="setup" finished-at="2023-12-28T13:08:29 GMT-05:00" duration-ms="30944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lout(java.lang.String,java.lang.String)[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:08:29 GMT-05:00" name="Lout" data-provider="TN" finished-at="2023-12-28T13:08:34 GMT-05:00" duration-ms="4458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:08:34 GMT-05:00" name="close" finished-at="2023-12-28T13:08:34 GMT-05:00" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:08:34 GMT-05:00" name="setup" finished-at="2023-12-28T13:09:06 GMT-05:00" duration-ms="32066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lout(java.lang.String,java.lang.String)[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:09:06 GMT-05:00" name="Lout" data-provider="TN" finished-at="2023-12-28T13:09:10 GMT-05:00" duration-ms="4367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:09:10 GMT-05:00" name="close" finished-at="2023-12-28T13:09:10 GMT-05:00" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:09:10 GMT-05:00" name="setup" finished-at="2023-12-28T13:09:38 GMT-05:00" duration-ms="27934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Lout(java.lang.String,java.lang.String)[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:09:38 GMT-05:00" name="Lout" data-provider="TN" finished-at="2023-12-28T13:09:42 GMT-05:00" duration-ms="4009" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LogoutTest@7e057f43]" started-at="2023-12-28T13:09:42 GMT-05:00" name="close" finished-at="2023-12-28T13:09:43 GMT-05:00" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automationcodeofTutorialsninja.LogoutTest -->
+      <class name="automationcodeofTutorialsninja.RegisterTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:58:03 GMT-05:00" name="Setup" finished-at="2023-12-28T12:58:33 GMT-05:00" duration-ms="30341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyingRegisterWithAllDetails()[pri:1, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:58:33 GMT-05:00" name="VerifyingRegisterWithAllDetails" finished-at="2023-12-28T12:58:36 GMT-05:00" duration-ms="3580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyingRegisterWithAllDetails -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:58:36 GMT-05:00" name="close" finished-at="2023-12-28T12:58:37 GMT-05:00" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:58:37 GMT-05:00" name="Setup" finished-at="2023-12-28T12:59:00 GMT-05:00" duration-ms="23628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="verifyingRegisterWithOnlyMandatoryDetails()[pri:2, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:59:00 GMT-05:00" name="verifyingRegisterWithOnlyMandatoryDetails" finished-at="2023-12-28T12:59:03 GMT-05:00" duration-ms="2894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingRegisterWithOnlyMandatoryDetails -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:59:03 GMT-05:00" name="close" finished-at="2023-12-28T12:59:03 GMT-05:00" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:59:03 GMT-05:00" name="Setup" finished-at="2023-12-28T12:59:15 GMT-05:00" duration-ms="11701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="verifyingRegisterWithNoDetails()[pri:3, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:59:15 GMT-05:00" name="verifyingRegisterWithNoDetails" finished-at="2023-12-28T12:59:16 GMT-05:00" duration-ms="1290" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [false] but found [true]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at automationcodeofTutorialsninja.RegisterTest.verifyingRegisterWithNoDetails(RegisterTest.java:74)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingRegisterWithNoDetails -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:59:17 GMT-05:00" name="close" finished-at="2023-12-28T12:59:17 GMT-05:00" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="VerifyRegisterWithDuplicateEmail()[pri:4, instance:automationcodeofTutorialsninja.RegisterTest@795509d9]" started-at="2023-12-28T12:59:17 GMT-05:00" name="VerifyRegisterWithDuplicateEmail" finished-at="2023-12-28T12:59:17 GMT-05:00" depends-on-methods="automationcodeofTutorialsninja.RegisterTest.verifyingRegisterWithNoDetails" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method automationcodeofTutorialsninja.RegisterTest.VerifyRegisterWithDuplicateEmail() on instance automationcodeofTutorialsninja.RegisterTest@795509d9 depends on not successfully finished methods 
+[automationcodeofTutorialsninja.RegisterTest.verifyingRegisterWithNoDetails() on instance automationcodeofTutorialsninja.RegisterTest@795509d9]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method automationcodeofTutorialsninja.RegisterTest.VerifyRegisterWithDuplicateEmail() on instance automationcodeofTutorialsninja.RegisterTest@795509d9 depends on not successfully finished methods 
+[automationcodeofTutorialsninja.RegisterTest.verifyingRegisterWithNoDetails() on instance automationcodeofTutorialsninja.RegisterTest@795509d9]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:156)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterWithDuplicateEmail -->
+      </class> <!-- automationcodeofTutorialsninja.RegisterTest -->
+      <class name="automationcodeofTutorialsninja.SearchTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:02:56 GMT-05:00" name="Setup" finished-at="2023-12-28T13:03:11 GMT-05:00" duration-ms="14809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchWithValidProduct()[pri:1, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:11 GMT-05:00" name="SearchWithValidProduct" finished-at="2023-12-28T13:03:15 GMT-05:00" duration-ms="3960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithValidProduct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:15 GMT-05:00" name="close" finished-at="2023-12-28T13:03:15 GMT-05:00" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:15 GMT-05:00" name="Setup" finished-at="2023-12-28T13:03:29 GMT-05:00" duration-ms="13902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchWithInvalidProduct()[pri:2, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:29 GMT-05:00" name="SearchWithInvalidProduct" finished-at="2023-12-28T13:03:33 GMT-05:00" duration-ms="3703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithInvalidProduct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:33 GMT-05:00" name="close" finished-at="2023-12-28T13:03:33 GMT-05:00" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:33 GMT-05:00" name="Setup" finished-at="2023-12-28T13:03:43 GMT-05:00" duration-ms="10087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchWithNoProduct()[pri:3, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:43 GMT-05:00" name="SearchWithNoProduct" finished-at="2023-12-28T13:03:46 GMT-05:00" duration-ms="3201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithNoProduct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.SearchTest@1750fbeb]" started-at="2023-12-28T13:03:46 GMT-05:00" name="close" finished-at="2023-12-28T13:03:47 GMT-05:00" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automationcodeofTutorialsninja.SearchTest -->
+      <class name="automationcodeofTutorialsninja.ItemDetailTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.ItemDetailTest@268f106e]" started-at="2023-12-28T13:04:30 GMT-05:00" name="setup" finished-at="2023-12-28T13:04:51 GMT-05:00" duration-ms="21653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="detailsOfTheProudct()[pri:0, instance:automationcodeofTutorialsninja.ItemDetailTest@268f106e]" started-at="2023-12-28T13:04:51 GMT-05:00" name="detailsOfTheProudct" finished-at="2023-12-28T13:05:06 GMT-05:00" duration-ms="15032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailsOfTheProudct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.ItemDetailTest@268f106e]" started-at="2023-12-28T13:05:06 GMT-05:00" name="close" finished-at="2023-12-28T13:05:07 GMT-05:00" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automationcodeofTutorialsninja.ItemDetailTest -->
+      <class name="automationcodeofTutorialsninja.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationcodeofTutorialsninja.CartTest@5b247367]" started-at="2023-12-28T13:03:47 GMT-05:00" name="setup" finished-at="2023-12-28T13:04:13 GMT-05:00" duration-ms="26617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addItemsToCart()[pri:0, instance:automationcodeofTutorialsninja.CartTest@5b247367]" started-at="2023-12-28T13:04:13 GMT-05:00" name="addItemsToCart" finished-at="2023-12-28T13:04:30 GMT-05:00" duration-ms="16300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsToCart -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.CartTest@5b247367]" started-at="2023-12-28T13:04:30 GMT-05:00" name="close" finished-at="2023-12-28T13:04:30 GMT-05:00" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automationcodeofTutorialsninja.CartTest -->
+      <class name="automationcodeofTutorialsninja.LoginTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T12:59:18 GMT-05:00" name="Setup" finished-at="2023-12-28T12:59:36 GMT-05:00" duration-ms="18548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T12:59:36 GMT-05:00" name="VerifyLoginWithValidCredentials" data-provider="TN" finished-at="2023-12-28T12:59:38 GMT-05:00" duration-ms="1614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T12:59:38 GMT-05:00" name="close" finished-at="2023-12-28T12:59:38 GMT-05:00" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T12:59:38 GMT-05:00" name="Setup" finished-at="2023-12-28T13:00:03 GMT-05:00" duration-ms="25190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:03 GMT-05:00" name="VerifyLoginWithValidCredentials" data-provider="TN" finished-at="2023-12-28T13:00:05 GMT-05:00" duration-ms="1459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:05 GMT-05:00" name="close" finished-at="2023-12-28T13:00:05 GMT-05:00" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:05 GMT-05:00" name="Setup" finished-at="2023-12-28T13:00:17 GMT-05:00" duration-ms="11802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:17 GMT-05:00" name="VerifyLoginWithValidCredentials" data-provider="TN" finished-at="2023-12-28T13:00:19 GMT-05:00" duration-ms="1963" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:19 GMT-05:00" name="close" finished-at="2023-12-28T13:00:19 GMT-05:00" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:19 GMT-05:00" name="Setup" finished-at="2023-12-28T13:00:40 GMT-05:00" duration-ms="21339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:40 GMT-05:00" name="VerifyLoginWithValidCredentials" data-provider="TN" finished-at="2023-12-28T13:00:42 GMT-05:00" duration-ms="2083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:42 GMT-05:00" name="close" finished-at="2023-12-28T13:00:43 GMT-05:00" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:00:43 GMT-05:00" name="Setup" finished-at="2023-12-28T13:01:07 GMT-05:00" duration-ms="24850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:07 GMT-05:00" name="VerifyLoginWithValidCredentials" data-provider="TN" finished-at="2023-12-28T13:01:11 GMT-05:00" duration-ms="3413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:11 GMT-05:00" name="close" finished-at="2023-12-28T13:01:11 GMT-05:00" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:11 GMT-05:00" name="Setup" finished-at="2023-12-28T13:01:34 GMT-05:00" duration-ms="23373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:34 GMT-05:00" name="VerifyLoginWithValidCredentials" data-provider="TN" finished-at="2023-12-28T13:01:36 GMT-05:00" duration-ms="1692" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:36 GMT-05:00" name="close" finished-at="2023-12-28T13:01:36 GMT-05:00" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:36 GMT-05:00" name="Setup" finished-at="2023-12-28T13:01:56 GMT-05:00" duration-ms="19987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:56 GMT-05:00" name="VerifyLoginWithValidCredentials" data-provider="TN" finished-at="2023-12-28T13:01:58 GMT-05:00" duration-ms="1626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:58 GMT-05:00" name="close" finished-at="2023-12-28T13:01:58 GMT-05:00" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:01:58 GMT-05:00" name="Setup" finished-at="2023-12-28T13:02:10 GMT-05:00" duration-ms="11356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithValidEmailInvalidPassword()[pri:2, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:10 GMT-05:00" name="VerifyLoginWithValidEmailInvalidPassword" finished-at="2023-12-28T13:02:11 GMT-05:00" duration-ms="1333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithValidEmailInvalidPassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:11 GMT-05:00" name="close" finished-at="2023-12-28T13:02:11 GMT-05:00" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:11 GMT-05:00" name="Setup" finished-at="2023-12-28T13:02:23 GMT-05:00" duration-ms="11509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithInvalidEmailValidPassword()[pri:3, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:23 GMT-05:00" name="VerifyLoginWithInvalidEmailValidPassword" finished-at="2023-12-28T13:02:24 GMT-05:00" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidEmailValidPassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:24 GMT-05:00" name="close" finished-at="2023-12-28T13:02:24 GMT-05:00" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:24 GMT-05:00" name="Setup" finished-at="2023-12-28T13:02:36 GMT-05:00" duration-ms="11308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithInvalidCredentials()[pri:4, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:36 GMT-05:00" name="VerifyLoginWithInvalidCredentials" finished-at="2023-12-28T13:02:37 GMT-05:00" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:37 GMT-05:00" name="close" finished-at="2023-12-28T13:02:37 GMT-05:00" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:37 GMT-05:00" name="Setup" finished-at="2023-12-28T13:02:55 GMT-05:00" duration-ms="17963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLoginWithNoCredentials()[pri:5, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:55 GMT-05:00" name="VerifyLoginWithNoCredentials" finished-at="2023-12-28T13:02:56 GMT-05:00" duration-ms="966" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [false] but found [true]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at automationcodeofTutorialsninja.LoginTest.VerifyLoginWithNoCredentials(LoginTest.java:95)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithNoCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:automationcodeofTutorialsninja.LoginTest@7ce69770]" started-at="2023-12-28T13:02:56 GMT-05:00" name="close" finished-at="2023-12-28T13:02:56 GMT-05:00" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automationcodeofTutorialsninja.LoginTest -->
+    </test> <!-- NinTest -->
+  </suite> <!-- TutSuite -->
+</testng-results>
