@@ -12,7 +12,15 @@
       <class name="automationcodeofTutorialsninja.LoginTest"/>
       
       <class name="automationcodeofTutorialsninja.SearchTest"/>
-      
+
+      <class name="automationcodeofTutorialsninja.ItemDetailTest"/>
+
+      <class name="automationcodeofTutorialsninja.CartTest"/>
+
+      <class name="automationcodeofTutorialsninja.CheckoutTest"/>
+
+      <class name="automationcodeofTutorialsninja.LogoutTest"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
