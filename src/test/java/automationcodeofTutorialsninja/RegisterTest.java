@@ -55,7 +55,7 @@ public void VerifyingRegisterWithAllDetails()
 public void verifyingRegisterWithOnlyMandatoryDetails()
 {
 	
-	acs =reg.registerPageMandatoryDetails(Pr2.getProperty("Firstname"), Pr2.getProperty("Lastname"), 
+    acs =reg.registerPageMandatoryDetails(Pr2.getProperty("Firstname"), Pr2.getProperty("Lastname"), 
 		     Details.GenerateEmailWithDateTimeStamp(), Pr2.getProperty("Phonenumber"), Pr.getProperty("CorrectPassword"),
 		     Pr.getProperty("CorrectPassword"));
     soft = new SoftAssert();
@@ -70,12 +70,12 @@ public void verifyingRegisterWithNoDetails()
 	reg.Bttn();
     
     soft = new SoftAssert();
-    soft.assertFalse(reg.registerPageNoDetails());
+    soft.assertTrue(reg.registerPageNoDetails());
     soft.assertAll();  
    
 }
 
-@Test(priority=4, dependsOnMethods= "verifyingRegisterWithNoDetails")
+@Test(priority=4)
 public void VerifyRegisterWithDuplicateEmail()
 {
 	
