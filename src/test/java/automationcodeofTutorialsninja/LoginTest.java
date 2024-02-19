@@ -91,7 +91,7 @@ public void VerifyLoginWithNoCredentials()
 {	
 	log.Btn();
 	Soft = new SoftAssert();
-	Soft.assertFalse(log.AlertPopup());
+	Soft.assertTrue(log.AlertPopup());
 	Soft.assertAll();
 	
 }
